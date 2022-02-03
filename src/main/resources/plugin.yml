@@ -1,0 +1,4 @@
+name: Bedwars1058 Placeholders
+version: '${project.version}'
+main: me.galaxy.bedwars1058placeholders.Bedwars1058Placeholders
+api-version: 1.18
